@@ -1,0 +1,15 @@
+C:\Users\Олеся Жданова\OneDrive\Рабочий стол\HomeWork7\ChangeElements\bin\Debug\net7.0\ChangeElements.exe
+C:\Users\Олеся Жданова\OneDrive\Рабочий стол\HomeWork7\ChangeElements\bin\Debug\net7.0\ChangeElements.deps.json
+C:\Users\Олеся Жданова\OneDrive\Рабочий стол\HomeWork7\ChangeElements\bin\Debug\net7.0\ChangeElements.runtimeconfig.json
+C:\Users\Олеся Жданова\OneDrive\Рабочий стол\HomeWork7\ChangeElements\bin\Debug\net7.0\ChangeElements.dll
+C:\Users\Олеся Жданова\OneDrive\Рабочий стол\HomeWork7\ChangeElements\bin\Debug\net7.0\ChangeElements.pdb
+C:\Users\Олеся Жданова\OneDrive\Рабочий стол\HomeWork7\ChangeElements\obj\Debug\net7.0\ChangeElements.csproj.AssemblyReference.cache
+C:\Users\Олеся Жданова\OneDrive\Рабочий стол\HomeWork7\ChangeElements\obj\Debug\net7.0\ChangeElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Олеся Жданова\OneDrive\Рабочий стол\HomeWork7\ChangeElements\obj\Debug\net7.0\ChangeElements.AssemblyInfoInputs.cache
+C:\Users\Олеся Жданова\OneDrive\Рабочий стол\HomeWork7\ChangeElements\obj\Debug\net7.0\ChangeElements.AssemblyInfo.cs
+C:\Users\Олеся Жданова\OneDrive\Рабочий стол\HomeWork7\ChangeElements\obj\Debug\net7.0\ChangeElements.csproj.CoreCompileInputs.cache
+C:\Users\Олеся Жданова\OneDrive\Рабочий стол\HomeWork7\ChangeElements\obj\Debug\net7.0\ChangeElements.dll
+C:\Users\Олеся Жданова\OneDrive\Рабочий стол\HomeWork7\ChangeElements\obj\Debug\net7.0\refint\ChangeElements.dll
+C:\Users\Олеся Жданова\OneDrive\Рабочий стол\HomeWork7\ChangeElements\obj\Debug\net7.0\ChangeElements.pdb
+C:\Users\Олеся Жданова\OneDrive\Рабочий стол\HomeWork7\ChangeElements\obj\Debug\net7.0\ChangeElements.genruntimeconfig.cache
+C:\Users\Олеся Жданова\OneDrive\Рабочий стол\HomeWork7\ChangeElements\obj\Debug\net7.0\ref\ChangeElements.dll
